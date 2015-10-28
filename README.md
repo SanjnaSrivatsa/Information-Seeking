@@ -8,9 +8,9 @@ Files
 
 	
 The focal dataset used is 
--------------
+
 * Libraries.csv
---------------	
+
 	This file contains demographic details of all seven libraries in Howard County, Maryland. These details entail name of the library,a unique 
 	identification number and segmented address specifics.
  
