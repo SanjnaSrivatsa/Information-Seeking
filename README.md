@@ -47,7 +47,7 @@ Retrieved from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version
 
 Reference: 
 Howard County,Maryland. (updated 2014, November 14). Elementary_School_District [Data file].
-Retrieved from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Elementary_School_District&outputFormat=csv
+Retrieved from https://data.howardcountymd.gov/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=general:Elementary_School_Districts&outputFormat=csv
 
 
 The dataset obtained on joining 'Private_Schools' and 'Libraries' is 'Howard_County_Libraries_Schools'
