@@ -1,4 +1,4 @@
-# Information-Seeking
+# Information Organization Assignment
 
 -----
 -------
